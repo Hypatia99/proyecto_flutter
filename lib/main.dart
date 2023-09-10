@@ -343,8 +343,7 @@ class _RadioExampleState extends State<RadioExample> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:
-            const Text('Radio Example'), // Puedes personalizar el título aquí
+        title: const Text('Radio'),
       ),
       body: Column(
         children: <Widget>[
